@@ -8,6 +8,7 @@ class SmartcontactmanagerApplicationTests {
 
 	@Test
 	void contextLoads() {
+		
 	}
 
 }
